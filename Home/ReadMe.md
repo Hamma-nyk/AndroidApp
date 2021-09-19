@@ -5,7 +5,7 @@
 - Implicit Intent
 - onClick set on main.xml
 
-Pic 1   |  Pic 2   |  Pic 3
-:---- -:|:--------:|:----------:
-![](https://i.ibb.co/b1y5Sy5/1.jpg)  |  ![](https://i.ibb.co/b1y5Sy5/1.jpg) |  ![](https://i.ibb.co/b1y5Sy5/1.jpg)
+| Pic 1   |  Pic 2   |  Pic 3 |
+| :---    | :---     | :---   |
+| ![](https://i.ibb.co/b1y5Sy5/1.jpg)  |  ![](https://i.ibb.co/b1y5Sy5/1.jpg) |  ![](https://i.ibb.co/b1y5Sy5/1.jpg) |
 
