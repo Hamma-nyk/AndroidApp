@@ -3,7 +3,7 @@
 - LifeCylcle of Application
 - Toast Notification
 - onClick set on class
-<tr>
+<tr style="border: 1px solid black;">
   <td>Pic 1</td>
 <tr>
 <tr>
