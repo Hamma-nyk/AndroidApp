@@ -3,11 +3,11 @@
 - LifeCylcle of Application
 - Toast Notification
 - onClick set on class
-<tr style="border: 1px solid black;">
-  <td style="border: 1px solid black;">Pic 1</td>
+<tr>
+  <td><b>Pic 1</b></td>
 <tr>
 <tr>
   <td>
-    <img src="https://i.ibb.co/wgrVWKN/Screenshot-2021-09-19-15-06-25-173-com-hamma-lifecycleapp.jpg" style="width: 30%;"/>
+    <img src="https://i.ibb.co/wgrVWKN/Screenshot-2021-09-19-15-06-25-173-com-hamma-lifecycleapp.jpg" style="width: 40%; margin-top:20dp;"/>
   </td>
 <tr>
