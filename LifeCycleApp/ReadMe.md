@@ -4,7 +4,7 @@
 - Toast Notification
 - onClick set on class
 <tr style="border: 1px solid black;">
-  <td>Pic 1</td>
+  <td style="border: 1px solid black;">Pic 1</td>
 <tr>
 <tr>
   <td>
