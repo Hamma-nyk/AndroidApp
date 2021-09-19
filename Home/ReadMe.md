@@ -1,9 +1,9 @@
 ### Include
 
-- 3 Activity (Explicit Intent)
-- Scrolling text
-- Implicit Intent
-- onClick set on main.xml
+3 Activity (Explicit Intent)
+Scrolling text
+Implicit Intent
+onClick set on main.xml
 
 | Pic 1   |  Pic 2   |  Pic 3 |
 | :---    | :---     | :---   |
